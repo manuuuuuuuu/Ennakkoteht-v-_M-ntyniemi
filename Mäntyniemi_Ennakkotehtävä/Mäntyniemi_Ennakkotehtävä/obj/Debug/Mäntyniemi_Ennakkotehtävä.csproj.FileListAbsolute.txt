@@ -1,0 +1,6 @@
+c:\users\manu\documents\visual studio 2017\Projects\Mäntyniemi_Ennakkotehtävä\Mäntyniemi_Ennakkotehtävä\bin\Debug\Mäntyniemi_Ennakkotehtävä.exe.config
+c:\users\manu\documents\visual studio 2017\Projects\Mäntyniemi_Ennakkotehtävä\Mäntyniemi_Ennakkotehtävä\bin\Debug\Mäntyniemi_Ennakkotehtävä.exe
+c:\users\manu\documents\visual studio 2017\Projects\Mäntyniemi_Ennakkotehtävä\Mäntyniemi_Ennakkotehtävä\bin\Debug\Mäntyniemi_Ennakkotehtävä.pdb
+c:\users\manu\documents\visual studio 2017\Projects\Mäntyniemi_Ennakkotehtävä\Mäntyniemi_Ennakkotehtävä\obj\Debug\Mäntyniemi_Ennakkotehtävä.csprojResolveAssemblyReference.cache
+c:\users\manu\documents\visual studio 2017\Projects\Mäntyniemi_Ennakkotehtävä\Mäntyniemi_Ennakkotehtävä\obj\Debug\Mäntyniemi_Ennakkotehtävä.exe
+c:\users\manu\documents\visual studio 2017\Projects\Mäntyniemi_Ennakkotehtävä\Mäntyniemi_Ennakkotehtävä\obj\Debug\Mäntyniemi_Ennakkotehtävä.pdb
